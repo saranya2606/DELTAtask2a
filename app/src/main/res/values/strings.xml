@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="game_over_score">Game Over! Your Score: %d</string>
+
+</resources>
